@@ -40,6 +40,8 @@ Settlement Flow
 2) Reflect successful payment events into orders/settlement and update the DB
 3) Propagate changes to the admin dashboard (polling/notification)
 
+<img width="910" height="600" alt="Image" src="https://github.com/user-attachments/assets/0819abd7-e43d-4fdb-b76b-93ba0d24bfe4" />
+
 📂 Component Breakdown
 1. Application (Admin Web)
    - Admin UI built on Next.js App Router
